@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+}
+
+#value {
+  color: red;
+  font-size: 8rem;
+}
+
+.button-container {
+  margin: 50px;
+}
+
+.btn-decrease {
+  width: 80px;
+  height: 40px;
+  margin: 20px;
+}
+
+.btn-reset {
+  width: 80px;
+  height: 40px;
+  margin: 20px;
+}
+
+.btn-increase {
+  width: 80px;
+  height: 40px;
+  margin: 20px;
+}
